@@ -1,0 +1,90 @@
+[global]
+name = "默认配置"
+item_sep = "\n"
+id_format = "【%s】："
+choice_format = "%s"
+
+[items.size]
+default = 0
+display = "大小"
+choices = [ "百兆小游戏", "1-5 G", "5-10 G", "10-20 G", "20-30 G", "30-50 G", "50-100 G", "100-200 G",]
+
+[items.picture_quality]
+default = 0
+display = "画面质量"
+choices = [ "像素党秒天秒地！", "无法和现实区分", "赏心悦目", "很美丽", "一般", "不怎么样", "别盯着看太久", "画图.exe",]
+
+[items.experience]
+default = 0
+display = "游戏体验"
+choices = [ "完美！！！", "不错！", "普普通通", "不怎么样", "盯着墙看都比玩它强", "锻炼你的精神抗打击能力",]
+
+[items.music]
+default = 0
+display = "声音/音乐"
+choices = [ "耳朵怀孕", "感动人心", "还不错", "一般", "不咋样", "耳朵流产", "音乐？什么音乐？",]
+
+[items.audience]
+default = 0
+display = "受众"
+choices = [ "所有群体", "儿童", "青少年", "成人", "仅限成人"]
+
+[items.device]
+default = 0
+display = "配置"
+choices = [ "能玩扫雷的电脑都能玩", "入门配置", "一般配置", "进阶级配置", "发烧级配置", "神威•太湖之光",]
+
+[items.difficulty]
+default = 0
+display = "难度"
+choices = [ "点点点突突突炸炸炸", "轻松愉快", "得动动脑子", "上手快精通难", "烧脑",]
+
+[items.playtime]
+default = 0
+display = "游戏时长"
+choices = [ "玩完就退款", "5-10小时", "10-30小时", "30-50小时", "50-100小时", "100-200小时", "我觉得我能比它先去世",]
+
+[items.feel]
+default = 0
+display = "操作手感"
+choices = [ "你家的宠物也能玩", "简单", "中等", "困难", "反人类",]
+
+[items.grind]
+default = 0
+display = "肝度"
+choices = [ "护肝", "如果你想玩出点花样", "肝与不肝并不影响剧情", "每关必肝", "肝痛", "必须24小时全天候地肝",]
+
+[items.porno_lvl]
+default = 0
+display = "肾"
+choices = [ "护肾", "需要短暂休息了", "需要休息一段时间了", "每关必冲", "肾痛", "一时手冲一时爽，一直手冲一直爽",]
+
+[items.plot]
+default = 0
+display = "故事情节/剧情"
+choices = [ "故事?什么故事?", "文字或语音剧情", "平庸", "还行", "精彩", "可以作为你的第二人生",]
+
+[items.round_time]
+default = 0
+display = "一局时长"
+choices = [ "办公室必备", "短小精悍", "中等", "较长", "卧槽！天亮了！",]
+
+[items.multiplayer_num]
+default = 0
+display = "多人游戏"
+choices = [ "孤独患者", "你唯一的沙雕网友", "2-5人", "5-10人", "10-30人", "30-64人",]
+
+[items.price]
+default = 0
+display = "价格"
+choices = [ "免费游玩!", "业界良心！", "值这个价", "如果你有点闲钱的话可以一试", "不推荐原价入", "信仰无价",]
+
+[items.score]
+default = 0
+display = "总体评分"
+choices = [ "？- ？(暂时无法评定分数)", "0-10 (垃圾游戏、差评)", "10-30 (完完全全的不及格)", "30-50 (总体不是很和谐，但是买来当笑话看应该不是什么大问题)", "50-65 (勉强及格，算是个游戏)", "65-80 (算是个不错的游戏了)", "80-95 (无论从哪个角度来看都非常不错)", "95-100 (这游戏牛逼！)", "100-100+ (完全超出预定水准，无论从哪方面看都是精品)", "∞ (死忠舔狗专属评分)",]
+
+[items.bug]
+default = 0
+display = "bug"
+choices = [ "几乎没有", "少量", "bug令人烦恼", "育碧", "模拟山羊",]
